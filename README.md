@@ -17,4 +17,6 @@ Challenge 3 - Create complimentary DNA strand to ssDNA provided. complimentDNA.p
 
 Challenge 4 - Takes a DNA file and a motif file. Searches the DNA file and prints the location of each motif. motifInDNA.py
 
-Challenge 5 - Takes a DNA sequence, creates the palindrome sequence, prints it and searches for palindromes in length from 4 to 12 nucleotides. This program finds and prints the location and length of each palindrome within the given sequence.
+Challenge 5 - Point Mutations. Measures the number of point mutations and returns the Hamming Distance between two strings.
+
+      Takes a DNA sequence, creates the palindrome sequence, prints it and searches for palindromes in length from 4 to 12 nucleotides. This program finds and prints the location and length of each palindrome within the given sequence.
