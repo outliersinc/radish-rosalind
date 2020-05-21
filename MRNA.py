@@ -2,10 +2,10 @@
 
 import sys
 
-# PROT Program involves the Translation of RNA to Protein Python3.7 Script that takes a file from command line arguments
+# mRNA Program involves the Translation of Protein to RNA using Python3.7 Script that takes a file from command line arguments
 #  Than Prints the output to Standard Out.
 
-# Written by Marcus W. on April 30, 2020
+# Written by Marcus W. on May 15, 2020
 
 # Welcome to DNA to RNA Program in Python 3.7
 # This program takes a .txt file of RNA nucleotides (A,U,C,G) and translates
